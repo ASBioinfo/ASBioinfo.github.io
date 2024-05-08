@@ -12,13 +12,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color:#ffffff;
   position: relative;
-  background: "https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg";
+  background:assets/img/background/bg7.png ;
 }
 
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  /*background: #010e1b;*/
   background-size: cover;
   left: 0;
   right: 0;
@@ -28,7 +28,7 @@ body::before {
 
 @media (min-width: 1024px) {
   body::before {
-    background-attachment: fixed;
+    -attachment: fixed;
   }
 }
 
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(255, 255, 255, 0.1);
+  : rgba(255, 255, 255, 0.1);
   color: #fff;
   line-height: 1;
   margin-right: 8px;
