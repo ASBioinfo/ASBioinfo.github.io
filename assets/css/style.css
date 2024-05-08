@@ -10,9 +10,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #ffc5a5;
+  color: #000000;
   position: relative;
-  background: transparent;
+  background: /assets/img/background/bg7.jpg;
 }
 
 body::before {
