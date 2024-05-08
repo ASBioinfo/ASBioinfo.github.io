@@ -12,13 +12,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color:#ffffff;
   position: relative;
-  background:assets/img/background/bg7.png ;
+  background: url('../img/background/bg7.png') ;
 }
 
 body::before {
   content: "";
   position: fixed;
-  /*background: #010e1b;*/
+  background: #010e1b;
   background-size: cover;
   left: 0;
   right: 0;
