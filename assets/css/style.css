@@ -12,7 +12,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color:#ffffff;
   position: relative;
-  background: assets/img/background/bg7.png;
+  background: "https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg";
 }
 
 body::before {
