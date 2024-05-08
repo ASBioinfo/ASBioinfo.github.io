@@ -10,15 +10,15 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color:#ffffff;
+  color:#fff;
   position: relative;
-  background: url('../img/background/bg7.png') ;
+  background: transparent ;
 }
 
 body::before {
   content: "";
   position: fixed;
-  background: url('../img/background/bg7.png');
+  background: url('../img/background/bg7.jpg');
   background-size: cover;
   left: 0;
   right: 0;
