@@ -17,7 +17,7 @@ body {
 
 body::before {
   content: "";
-  position: relative;
+  position: fixed;
   background: url('../img/background/giphy.gif');
   background-size: cover;
   left: 0;
