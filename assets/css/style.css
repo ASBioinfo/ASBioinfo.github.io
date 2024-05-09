@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a {
   display: block;
-  position: relative;
+  position: fixed;
   color: #fff;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:before {
   content: "";
-  position: absolute;
+  position: fixed;
   width: 0;
   height: 2px;
   bottom: -4px;
