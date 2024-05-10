@@ -446,7 +446,7 @@ section .container {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 80px;
   display: block;
   background: none;
 }
@@ -456,14 +456,14 @@ section .container {
   margin: 0 0 6px 0;
   text-transform: uppercase;
   display: block;
-  font-weight: 600;
+  font-weight: 800;
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
 
 .skills .progress .skill .val {
   float: right;
-  font-style: normal;
+  font-style: bold;
 }
 
 .skills .progress-bar-wrap {
