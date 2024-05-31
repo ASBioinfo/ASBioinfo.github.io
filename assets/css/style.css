@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: url('../img/background/Blue DNA.gif');
+  background: url('../img/background/giphy.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
