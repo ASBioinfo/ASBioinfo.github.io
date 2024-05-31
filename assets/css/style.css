@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: url('https://github.com/ASBioinfo/ASBioinfo.github.io/blob/main/assets/img/background/dna4.gif');
+  background: url('https://github.com/ASBioinfo/ASBioinfo.github.io/blob/main/assets/img/background/giphy.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
